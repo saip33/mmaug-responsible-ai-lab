@@ -16,6 +16,9 @@ Add rows until you have checked every distinct claim in Sample A.
 | Claim from the draft | Supported / contradicted / unknown | Evidence ID | Correction or next question |
 | --- | --- | --- | --- |
 |October 16 |Contradicted |F2 |Correct to October15, 2026 |
+|50 attendance |Contradicted |F3 |Correct to 30 attendance|
+|$20 ticket |Contradicted |F3 |Correct to free registration|
+
 
 ## Revised announcement
 
